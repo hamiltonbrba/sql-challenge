@@ -64,5 +64,5 @@ To run this project locally:
 
 - **[ChatGPT by OpenAI](https://openai.com/chatgpt)**: Assisted in generating and refining SQL queries, data modeling, and providing guidance throughout the project.
 - **[LucidChart](https://www.lucidchart.com/)**: Used for creating the Entity Relationship Diagram (ERD) to visually represent the database schema.
-- **[TutorialsPoint: PostgreSQL](https://www.tutorialspoint.com/postgresql/postgresql_using_joins.htm)**: Provided valuable tutorials and reference materials for PostgreSQL syntax.
+- **[TutorialsPoint: PostgreSQL](https://www.tutorialspoint.com/postgresql/index.htm)**: Provided valuable tutorials and reference materials for PostgreSQL syntax.
 
