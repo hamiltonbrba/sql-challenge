@@ -57,3 +57,12 @@ To run this project locally:
 3. Populate your tables with the provided data in the `/data/` directory.
 4. Execute the SQL queries in the `/queries/` directory to perform the data analysis.
 5. Review the results in the `/results/` directory.
+
+
+
+### Credits and Resources
+
+- **[ChatGPT by OpenAI](https://openai.com/chatgpt)**: Assisted in generating and refining SQL queries, data modeling, and providing guidance throughout the project.
+- **[LucidChart](https://www.lucidchart.com/)**: Used for creating the Entity Relationship Diagram (ERD) to visually represent the database schema.
+- **[TutorialsPoint: PostgreSQL](https://www.tutorialspoint.com/postgresql/postgresql_using_joins.htm)**: Provided valuable tutorials and reference materials for PostgreSQL syntax.
+
